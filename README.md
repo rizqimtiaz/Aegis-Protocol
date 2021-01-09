@@ -21,12 +21,6 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 - **Framework**: Next.js 14 (App Router) & React
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS & Framer Motion
-<!-- metadata: mpxhbun6iu -->
-<!-- metadata: vc3jlrrxui -->
-<!-- metadata: 9blkwxx674 -->
-<!-- metadata: gxc1w9nthr -->
-<!-- metadata: aqhl61vw4l -->
-<!-- metadata: rv21g99u81 -->
 - **Web3**: Wagmi & Viem (Ethereum interactions)
 - **AI Integration**: Vercel AI SDK (`ai` package) with Anthropic Claude 3.5 Sonnet
 - **Smart Contract**: Solidity
@@ -106,6 +100,8 @@ These relative coordinates are safely parsed within the `<ForensicCanvas />` com
 
 The core smart contract logic is provided in `contracts/AegisRegistry.sol`. 
 It ensures that you can take the generated `imageHash`, the `trustScore`, and store it persistently on the blockchain to verify that an image was fact-checked at a specific point in time. 
+
+*(Note: You will need to deploy this contract via Hardhat, Foundry, or Remix to connect it fully to a live network, and update the `CONTRACT_ADDRESS` constant in `app/page.tsx`)*
 
 ---
 
