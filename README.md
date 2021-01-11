@@ -30,6 +30,9 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 
 ## 🚀 Getting Started
 
+<!-- metadata: q414zzmar0 -->
+<!-- metadata: fs7xqws6xa -->
+<!-- metadata: dk4zddli97 -->
 ### 1. Prerequisites
 
 Ensure you have Node.js installed on your machine.
@@ -82,7 +85,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 ├── lib/
 │   └── utils.ts                   # Perceptual hashing and Tailwind CSS class merger
 ├── tailwind.config.ts             # Custom CSS theme configs
-├── next.config.mjs
 └── package.json
 ```
 
