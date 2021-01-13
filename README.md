@@ -58,10 +58,6 @@ npm install
 Start the application on your local machine:
 
 ```bash
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to access the dashboard.
 
 ---
 
@@ -86,6 +82,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 └── package.json
 ```
 
+<!-- metadata: xde6oh6b45 -->
+<!-- metadata: 5m4egr6zsr -->
+<!-- metadata: mky0if82lf -->
 ---
 
 ## 🧠 AI Integration Mechanics
