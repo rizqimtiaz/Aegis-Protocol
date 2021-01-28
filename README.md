@@ -103,8 +103,7 @@ It ensures that you can take the generated `imageHash`, the `trustScore`, and st
 
 *(Note: You will need to deploy this contract via Hardhat, Foundry, or Remix to connect it fully to a live network, and update the `CONTRACT_ADDRESS` constant in `app/page.tsx`)*
 
----
-
 ## 📝 License
 
+<!-- metadata: j0dkakkhvu -->
 This project is open-source and available under the MIT License.
