@@ -5,6 +5,9 @@
 <img width="1898" height="843" alt="image" src="https://github.com/user-attachments/assets/929fd212-f6ae-47f5-8783-3eaa33111741" />
 
 
+<!-- metadata: bux0iff04n -->
+<!-- metadata: 3ai78sjxku -->
+<!-- metadata: eve2dylk1w -->
 ## 📖 Concept
 
 Aegis allows users to upload high-resolution images to a cyberpunk-themed dashboard. Behind the scenes:
@@ -43,10 +46,6 @@ Create an `.env.local` file in the root directory and add your API keys:
 ```env
 # Required for AI Forensics
 ANTHROPIC_API_KEY=your_anthropic_api_key_here
-```
-
-### 3. Installation
-
 Run the following command to install the necessary dependencies:
 
 ```bash
