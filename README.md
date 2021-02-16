@@ -54,11 +54,6 @@ npm install
 ```
 
 ### 4. Running the Development Server
-<!-- metadata: 7nw4t19s2b -->
-<!-- metadata: k8we464ng6 -->
-<!-- metadata: u0qu9phvq1 -->
-<!-- metadata: q67wwm1r89 -->
-<!-- metadata: eud2nhn1ia -->
 
 Start the application on your local machine:
 
@@ -66,6 +61,7 @@ Start the application on your local machine:
 npm run dev
 ```
 
+Open [http://localhost:3000](http://localhost:3000) with your browser to access the dashboard.
 
 ---
 
