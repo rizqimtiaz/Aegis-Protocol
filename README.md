@@ -79,6 +79,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 │   └── Web3Provider.tsx           # Wagmi context provider
 ├── contracts/
 │   └── AegisRegistry.sol          # Decentralized registry smart contract
+├── lib/
+│   └── utils.ts                   # Perceptual hashing and Tailwind CSS class merger
+├── tailwind.config.ts             # Custom CSS theme configs
 ├── next.config.mjs
 └── package.json
 ```
@@ -92,10 +95,6 @@ The `app/api/analyze-image/route.ts` leverages `generateObject` from the Vercel 
 These relative coordinates are safely parsed within the `<ForensicCanvas />` component, adapting to aspect ratios to accurately highlight visual anomalies with a glowing cyberpunk aesthetic.
 
 ---
-<!-- metadata: q409cu5884 -->
-<!-- metadata: n369t3gjg6 -->
-<!-- metadata: ztwjvq1brs -->
-<!-- metadata: 2tibyefx8i -->
 
 ## 🔒 Smart Contract
 
