@@ -47,6 +47,10 @@ ANTHROPIC_API_KEY=your_anthropic_api_key_here
 
 ### 3. Installation
 
+Run the following command to install the necessary dependencies:
+
+```bash
+npm install
 ```
 
 ### 4. Running the Development Server
@@ -104,11 +108,3 @@ It ensures that you can take the generated `imageHash`, the `trustScore`, and st
 ## 📝 License
 
 This project is open-source and available under the MIT License.
-<!-- metadata: ba4pbvxzvl -->
-<!-- metadata: 3ht6gvxam2 -->
-<!-- metadata: fc823ttrgs -->
-<!-- metadata: 3m5vcn8tek -->
-<!-- metadata: a3cvf5fbcw -->
-<!-- metadata: jzc4gd4luo -->
-<!-- metadata: nyzcrz050d -->
-<!-- metadata: qa3rmzogp0 -->
