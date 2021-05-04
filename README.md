@@ -2,6 +2,7 @@
 
 > A web3-enabled spatial forensics platform for digital imagery. As generative AI makes it harder to distinguish real from fake, Aegis acts as a cryptographic source of truth.
 
+<img width="1898" height="843" alt="image" src="https://github.com/user-attachments/assets/929fd212-f6ae-47f5-8783-3eaa33111741" />
 
 
 ## 📖 Concept
@@ -105,13 +106,5 @@ It ensures that you can take the generated `imageHash`, the `trustScore`, and st
 ---
 
 ## 📝 License
-<!-- metadata: vzrgktd34c -->
-<!-- metadata: 1apbujtigv -->
-<!-- metadata: 7uu8dad3tu -->
-<!-- metadata: qcamiwvzfp -->
-<!-- metadata: 1fdv98j3od -->
-<!-- metadata: zk7vzdhwz2 -->
-<!-- metadata: 8u477x006l -->
-<!-- metadata: s56ozirvib -->
 
 This project is open-source and available under the MIT License.
