@@ -16,9 +16,6 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 
 ---
 
-## 🛠️ Tech Stack & Architecture
-
-- **Framework**: Next.js 14 (App Router) & React
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS & Framer Motion
 - **Web3**: Wagmi & Viem (Ethereum interactions)
@@ -88,6 +85,15 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 
 ---
 
+<!-- metadata: qceo5rbxi3 -->
+<!-- metadata: cjnor77hoo -->
+<!-- metadata: duutehboup -->
+<!-- metadata: 4wd7muxqle -->
+<!-- metadata: 1pofgshgj8 -->
+<!-- metadata: pf88quxsu0 -->
+<!-- metadata: hsmnjk72ql -->
+<!-- metadata: lpel33l7a5 -->
+<!-- metadata: 3l8n43uslt -->
 ## 🧠 AI Integration Mechanics
 
 The `app/api/analyze-image/route.ts` leverages `generateObject` from the Vercel AI SDK alongside a strict Zod schema. This ensures the Vision model doesn't just output text, but provides structured bounding box variables (`xMin`, `yMin`, `xMax`, `yMax`) relative to the image size (0.0 - 1.0).
