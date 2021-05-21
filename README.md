@@ -24,14 +24,11 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 - **Web3**: Wagmi & Viem (Ethereum interactions)
 - **AI Integration**: Vercel AI SDK (`ai` package) with Anthropic Claude 3.5 Sonnet
 - **Smart Contract**: Solidity
-<!-- metadata: vs5z5i3vta -->
-<!-- metadata: w8246ri9s6 -->
-<!-- metadata: d3o0l5k4c7 -->
-<!-- metadata: fzicmmag9o -->
-<!-- metadata: zz6necp3je -->
 - **Image Processing**: HTML5 Canvas API
 
 ---
+
+## 🚀 Getting Started
 
 ### 1. Prerequisites
 
