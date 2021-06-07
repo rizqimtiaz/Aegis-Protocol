@@ -7,6 +7,11 @@
 
 ## 📖 Concept
 
+<!-- metadata: yg2xna0r2n -->
+<!-- metadata: 5lo2grcn3g -->
+<!-- metadata: 5n2hy8iyfv -->
+<!-- metadata: kh9c9o9410 -->
+<!-- metadata: qn1utdn2o7 -->
 Aegis allows users to upload high-resolution images to a cyberpunk-themed dashboard. Behind the scenes:
 1. The image data is sent to an elite AI model (Anthropic's Vision model via Vercel AI SDK).
 2. The AI acts as an expert digital forensic analyst, scanning for impossible geometry, lighting inconsistencies, and synthetic artifacts.
@@ -15,7 +20,6 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 5. The user can "Solidify" the report by generating a perceptual hash of the image and logging it onto a Solidity smart contract to create an immutable proof-of-analysis.
 
 ---
-
 ## 🛠️ Tech Stack & Architecture
 
 - **Framework**: Next.js 14 (App Router) & React
