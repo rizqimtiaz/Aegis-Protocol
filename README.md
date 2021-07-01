@@ -1,5 +1,8 @@
 # 🛡️ Aegis Protocol: Decentralized Visual Forensics
 
+<!-- metadata: jzkk6tq9fu -->
+<!-- metadata: ad3xg7h1zh -->
+<!-- metadata: 9722fnnise -->
 > A web3-enabled spatial forensics platform for digital imagery. As generative AI makes it harder to distinguish real from fake, Aegis acts as a cryptographic source of truth.
 
 <img width="1898" height="843" alt="image" src="https://github.com/user-attachments/assets/929fd212-f6ae-47f5-8783-3eaa33111741" />
@@ -34,9 +37,6 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 
 Ensure you have Node.js installed on your machine.
 - Node.js (v18+)
-- npm or yarn
-
-### 2. Environment Setup
 
 Create an `.env.local` file in the root directory and add your API keys:
 
