@@ -17,6 +17,7 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 ---
 
 ## 🛠️ Tech Stack & Architecture
+<!-- metadata: kl8fg8u0r4 -->
 
 - **Framework**: Next.js 14 (App Router) & React
 - **Language**: TypeScript
@@ -44,10 +45,6 @@ Create an `.env.local` file in the root directory and add your API keys:
 # Required for AI Forensics
 ANTHROPIC_API_KEY=your_anthropic_api_key_here
 ```
-
-### 3. Installation
-
-Run the following command to install the necessary dependencies:
 
 ```bash
 npm install
