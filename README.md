@@ -7,14 +7,12 @@
 
 ## 📖 Concept
 
+Aegis allows users to upload high-resolution images to a cyberpunk-themed dashboard. Behind the scenes:
+1. The image data is sent to an elite AI model (Anthropic's Vision model via Vercel AI SDK).
+2. The AI acts as an expert digital forensic analyst, scanning for impossible geometry, lighting inconsistencies, and synthetic artifacts.
 3. It outputs a **Trust Score** and precise spatial coordinates of suspicious regions.
 4. The frontend renders an interactive, glowing heatmap overlay directly on the image using the HTML5 Canvas API.
 5. The user can "Solidify" the report by generating a perceptual hash of the image and logging it onto a Solidity smart contract to create an immutable proof-of-analysis.
-<!-- metadata: doihswvudt -->
-<!-- metadata: i8m0l0eg2j -->
-<!-- metadata: t1h35twoap -->
-<!-- metadata: 3zkmqymots -->
-<!-- metadata: uo0yn4y9r4 -->
 
 ---
 
