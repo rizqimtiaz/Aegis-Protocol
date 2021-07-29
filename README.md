@@ -21,6 +21,7 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 - **Framework**: Next.js 14 (App Router) & React
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS & Framer Motion
+- **Web3**: Wagmi & Viem (Ethereum interactions)
 - **AI Integration**: Vercel AI SDK (`ai` package) with Anthropic Claude 3.5 Sonnet
 - **Smart Contract**: Solidity
 - **Image Processing**: HTML5 Canvas API
@@ -89,14 +90,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 
 ## 🧠 AI Integration Mechanics
 
-<!-- metadata: oz6npnp6tm -->
-<!-- metadata: 361e2f9ukz -->
-<!-- metadata: 6f4bfsqvpu -->
-<!-- metadata: 3ra4xfpfoh -->
-<!-- metadata: awdgj77o7t -->
-<!-- metadata: me67atj2ao -->
-<!-- metadata: 4ka3ml7ulw -->
-<!-- metadata: 1e809k1348 -->
 The `app/api/analyze-image/route.ts` leverages `generateObject` from the Vercel AI SDK alongside a strict Zod schema. This ensures the Vision model doesn't just output text, but provides structured bounding box variables (`xMin`, `yMin`, `xMax`, `yMax`) relative to the image size (0.0 - 1.0).
 
 These relative coordinates are safely parsed within the `<ForensicCanvas />` component, adapting to aspect ratios to accurately highlight visual anomalies with a glowing cyberpunk aesthetic.
