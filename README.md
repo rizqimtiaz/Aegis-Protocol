@@ -95,21 +95,15 @@ The `app/api/analyze-image/route.ts` leverages `generateObject` from the Vercel 
 These relative coordinates are safely parsed within the `<ForensicCanvas />` component, adapting to aspect ratios to accurately highlight visual anomalies with a glowing cyberpunk aesthetic.
 
 ---
-<!-- metadata: p2ffqkg6n7 -->
-<!-- metadata: wvw0055hyw -->
-<!-- metadata: ad7ch06ok9 -->
-<!-- metadata: jgmk5kwd9w -->
-<!-- metadata: bquilefjx3 -->
-<!-- metadata: q7gmo90is1 -->
-<!-- metadata: grc4adko0u -->
-<!-- metadata: 4hx2zmj9is -->
-<!-- metadata: zttt62hu4r -->
-<!-- metadata: lh1by55evt -->
 
 ## 🔒 Smart Contract
 
 The core smart contract logic is provided in `contracts/AegisRegistry.sol`. 
 It ensures that you can take the generated `imageHash`, the `trustScore`, and store it persistently on the blockchain to verify that an image was fact-checked at a specific point in time. 
+
+*(Note: You will need to deploy this contract via Hardhat, Foundry, or Remix to connect it fully to a live network, and update the `CONTRACT_ADDRESS` constant in `app/page.tsx`)*
+
+---
 
 ## 📝 License
 
