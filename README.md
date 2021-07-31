@@ -4,6 +4,11 @@
 
 <img width="1898" height="843" alt="image" src="https://github.com/user-attachments/assets/929fd212-f6ae-47f5-8783-3eaa33111741" />
 
+<!-- metadata: k3wifpvcni -->
+<!-- metadata: aljmb1yi9d -->
+<!-- metadata: nskpff4c3d -->
+<!-- metadata: zmyq5y98h7 -->
+<!-- metadata: wv9kfktsw2 -->
 
 ## 📖 Concept
 
@@ -51,10 +56,6 @@ Run the following command to install the necessary dependencies:
 
 ```bash
 npm install
-```
-
-### 4. Running the Development Server
-
 Start the application on your local machine:
 
 ```bash
