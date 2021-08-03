@@ -52,6 +52,9 @@ Run the following command to install the necessary dependencies:
 ```bash
 npm install
 ```
+<!-- metadata: bm1vgetbga -->
+<!-- metadata: 5xgo5ehezu -->
+<!-- metadata: nxtwo73qy7 -->
 
 ### 4. Running the Development Server
 
@@ -95,7 +98,6 @@ The `app/api/analyze-image/route.ts` leverages `generateObject` from the Vercel 
 These relative coordinates are safely parsed within the `<ForensicCanvas />` component, adapting to aspect ratios to accurately highlight visual anomalies with a glowing cyberpunk aesthetic.
 
 ---
-
 ## 🔒 Smart Contract
 
 The core smart contract logic is provided in `contracts/AegisRegistry.sol`. 
