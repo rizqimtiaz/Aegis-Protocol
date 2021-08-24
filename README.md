@@ -5,10 +5,6 @@
 <img width="1898" height="843" alt="image" src="https://github.com/user-attachments/assets/929fd212-f6ae-47f5-8783-3eaa33111741" />
 
 
-<!-- metadata: lztyir93t5 -->
-<!-- metadata: 0ikiihxdhb -->
-<!-- metadata: vj667jvjw8 -->
-<!-- metadata: 33eck66hhs -->
 ## 📖 Concept
 
 Aegis allows users to upload high-resolution images to a cyberpunk-themed dashboard. Behind the scenes:
@@ -106,6 +102,9 @@ The core smart contract logic is provided in `contracts/AegisRegistry.sol`.
 It ensures that you can take the generated `imageHash`, the `trustScore`, and store it persistently on the blockchain to verify that an image was fact-checked at a specific point in time. 
 
 *(Note: You will need to deploy this contract via Hardhat, Foundry, or Remix to connect it fully to a live network, and update the `CONTRACT_ADDRESS` constant in `app/page.tsx`)*
+
+---
+
 ## 📝 License
 
 This project is open-source and available under the MIT License.
