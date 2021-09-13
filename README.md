@@ -64,6 +64,10 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to access the dashboard.
 
 ---
+
+## 💻 Project Structure
+
+```text
 ├── app/
 │   ├── api/analyze-image/route.ts  # AI API route parsing image data and returning Zod schema
 │   ├── layout.tsx                 # Root layout with Web3 providers
@@ -90,8 +94,6 @@ The `app/api/analyze-image/route.ts` leverages `generateObject` from the Vercel 
 
 These relative coordinates are safely parsed within the `<ForensicCanvas />` component, adapting to aspect ratios to accurately highlight visual anomalies with a glowing cyberpunk aesthetic.
 
-<!-- metadata: puvtrncb1x -->
-<!-- metadata: nnrdtkpeet -->
 ---
 
 ## 🔒 Smart Contract
