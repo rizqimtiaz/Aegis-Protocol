@@ -23,9 +23,6 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 - **Styling**: Tailwind CSS & Framer Motion
 - **Web3**: Wagmi & Viem (Ethereum interactions)
 - **AI Integration**: Vercel AI SDK (`ai` package) with Anthropic Claude 3.5 Sonnet
-<!-- metadata: jv7bfj231n -->
-<!-- metadata: 5fqvcnunjr -->
-<!-- metadata: 1b3iepjbgo -->
 - **Smart Contract**: Solidity
 - **Image Processing**: HTML5 Canvas API
 
@@ -87,6 +84,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 ├── tailwind.config.ts             # Custom CSS theme configs
 ├── next.config.mjs
 └── package.json
+```
+
+---
+
 ## 🧠 AI Integration Mechanics
 
 The `app/api/analyze-image/route.ts` leverages `generateObject` from the Vercel AI SDK alongside a strict Zod schema. This ensures the Vision model doesn't just output text, but provides structured bounding box variables (`xMin`, `yMin`, `xMax`, `yMax`) relative to the image size (0.0 - 1.0).
