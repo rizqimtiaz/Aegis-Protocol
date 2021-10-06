@@ -3,6 +3,10 @@
 > A web3-enabled spatial forensics platform for digital imagery. As generative AI makes it harder to distinguish real from fake, Aegis acts as a cryptographic source of truth.
 
 <img width="1898" height="843" alt="image" src="https://github.com/user-attachments/assets/929fd212-f6ae-47f5-8783-3eaa33111741" />
+
+
+## 📖 Concept
+
 Aegis allows users to upload high-resolution images to a cyberpunk-themed dashboard. Behind the scenes:
 1. The image data is sent to an elite AI model (Anthropic's Vision model via Vercel AI SDK).
 2. The AI acts as an expert digital forensic analyst, scanning for impossible geometry, lighting inconsistencies, and synthetic artifacts.
@@ -14,9 +18,6 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 
 ## 🛠️ Tech Stack & Architecture
 
-<!-- metadata: 5dbj8yyvtv -->
-<!-- metadata: 2fhzbtqwvp -->
-<!-- metadata: 3f7jf8ciin -->
 - **Framework**: Next.js 14 (App Router) & React
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS & Framer Motion
