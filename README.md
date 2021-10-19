@@ -34,6 +34,7 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 
 Ensure you have Node.js installed on your machine.
 - Node.js (v18+)
+- npm or yarn
 
 ### 2. Environment Setup
 
@@ -47,7 +48,6 @@ ANTHROPIC_API_KEY=your_anthropic_api_key_here
 ### 3. Installation
 
 Run the following command to install the necessary dependencies:
-<!-- metadata: 89ir894d9h -->
 
 ```bash
 npm install
