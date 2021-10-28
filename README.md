@@ -15,9 +15,6 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 5. The user can "Solidify" the report by generating a perceptual hash of the image and logging it onto a Solidity smart contract to create an immutable proof-of-analysis.
 
 ---
-<!-- metadata: 5bq9o0rlgn -->
-<!-- metadata: vfh9wx3vc1 -->
-<!-- metadata: erllkzj32x -->
 
 ## 🛠️ Tech Stack & Architecture
 
@@ -67,6 +64,10 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to access the dashboard.
 
 ---
+
+## 💻 Project Structure
+
+```text
 ├── app/
 │   ├── api/analyze-image/route.ts  # AI API route parsing image data and returning Zod schema
 │   ├── layout.tsx                 # Root layout with Web3 providers
