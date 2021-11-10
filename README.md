@@ -62,12 +62,6 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to access the dashboard.
-<!-- metadata: 8gfnyjk2a2 -->
-<!-- metadata: 4bv9diu71b -->
-<!-- metadata: ugyb3e77s5 -->
-<!-- metadata: qhya8xfcsk -->
-<!-- metadata: 5mfgdhfh0q -->
-<!-- metadata: 0x2tkvyvlr -->
 
 ---
 
@@ -99,6 +93,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 The `app/api/analyze-image/route.ts` leverages `generateObject` from the Vercel AI SDK alongside a strict Zod schema. This ensures the Vision model doesn't just output text, but provides structured bounding box variables (`xMin`, `yMin`, `xMax`, `yMax`) relative to the image size (0.0 - 1.0).
 
 These relative coordinates are safely parsed within the `<ForensicCanvas />` component, adapting to aspect ratios to accurately highlight visual anomalies with a glowing cyberpunk aesthetic.
+
+---
+
+## 🔒 Smart Contract
 
 The core smart contract logic is provided in `contracts/AegisRegistry.sol`. 
 It ensures that you can take the generated `imageHash`, the `trustScore`, and store it persistently on the blockchain to verify that an image was fact-checked at a specific point in time. 
