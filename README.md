@@ -12,14 +12,6 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 2. The AI acts as an expert digital forensic analyst, scanning for impossible geometry, lighting inconsistencies, and synthetic artifacts.
 3. It outputs a **Trust Score** and precise spatial coordinates of suspicious regions.
 4. The frontend renders an interactive, glowing heatmap overlay directly on the image using the HTML5 Canvas API.
-<!-- metadata: w0au7eblck -->
-<!-- metadata: gff4rhddnc -->
-<!-- metadata: tffo9c4kwe -->
-<!-- metadata: 331rr306ra -->
-<!-- metadata: qkbiye2drh -->
-<!-- metadata: bwhwo5mjwh -->
-<!-- metadata: xq1liz3on9 -->
-<!-- metadata: sgj9bun0cw -->
 5. The user can "Solidify" the report by generating a perceptual hash of the image and logging it onto a Solidity smart contract to create an immutable proof-of-analysis.
 
 ---
@@ -83,6 +75,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 │   └── globals.css                # Global CSS variables & Cyberpunk styling
 ├── components/
 │   ├── ForensicCanvas.tsx         # HTML5 Canvas mapping relative coordinates into UI overlays
+│   ├── UploadZone.tsx             # Drag-and-drop imagery upload component
+│   └── Web3Provider.tsx           # Wagmi context provider
+├── contracts/
 │   └── AegisRegistry.sol          # Decentralized registry smart contract
 ├── lib/
 │   └── utils.ts                   # Perceptual hashing and Tailwind CSS class merger
