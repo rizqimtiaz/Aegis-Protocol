@@ -39,9 +39,6 @@ Ensure you have Node.js installed on your machine.
 ### 2. Environment Setup
 
 Create an `.env.local` file in the root directory and add your API keys:
-
-```env
-# Required for AI Forensics
 ANTHROPIC_API_KEY=your_anthropic_api_key_here
 ```
 
@@ -60,6 +57,16 @@ Start the application on your local machine:
 ```bash
 npm run dev
 ```
+<!-- metadata: d3doku3b0u -->
+<!-- metadata: 70cwqnwc8u -->
+<!-- metadata: ev6ht5d7hv -->
+<!-- metadata: 6zdw0llxc6 -->
+<!-- metadata: 2qghkwkbue -->
+<!-- metadata: 3lpnz54ml0 -->
+<!-- metadata: yjdtf2tdu5 -->
+<!-- metadata: if2m6s0zq7 -->
+<!-- metadata: hchlunwoyq -->
+<!-- metadata: u4jqx7q1ip -->
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to access the dashboard.
 
