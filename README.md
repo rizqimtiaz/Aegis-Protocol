@@ -19,6 +19,9 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 ## 🛠️ Tech Stack & Architecture
 
 - **Framework**: Next.js 14 (App Router) & React
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS & Framer Motion
+- **Web3**: Wagmi & Viem (Ethereum interactions)
 - **AI Integration**: Vercel AI SDK (`ai` package) with Anthropic Claude 3.5 Sonnet
 - **Smart Contract**: Solidity
 - **Image Processing**: HTML5 Canvas API
@@ -68,7 +71,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 ├── app/
 │   ├── api/analyze-image/route.ts  # AI API route parsing image data and returning Zod schema
 │   ├── layout.tsx                 # Root layout with Web3 providers
-<!-- metadata: z9jatdirte -->
 │   ├── page.tsx                   # Main Dashboard UI
 │   └── globals.css                # Global CSS variables & Cyberpunk styling
 ├── components/
