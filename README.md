@@ -44,6 +44,11 @@ Create an `.env.local` file in the root directory and add your API keys:
 # Required for AI Forensics
 ANTHROPIC_API_KEY=your_anthropic_api_key_here
 ```
+<!-- metadata: u06xusiwy4 -->
+<!-- metadata: xnfs7887a5 -->
+<!-- metadata: rlz0bsbm4c -->
+<!-- metadata: kzi67yjmje -->
+<!-- metadata: fp31fvy7na -->
 
 ### 3. Installation
 
@@ -64,9 +69,6 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to access the dashboard.
 
 ---
-
-## 💻 Project Structure
-
 ```text
 ├── app/
 │   ├── api/analyze-image/route.ts  # AI API route parsing image data and returning Zod schema
