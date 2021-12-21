@@ -3,13 +3,6 @@
 > A web3-enabled spatial forensics platform for digital imagery. As generative AI makes it harder to distinguish real from fake, Aegis acts as a cryptographic source of truth.
 
 <img width="1898" height="843" alt="image" src="https://github.com/user-attachments/assets/929fd212-f6ae-47f5-8783-3eaa33111741" />
-<!-- metadata: z60rcnagb6 -->
-<!-- metadata: s1hnj98ebw -->
-<!-- metadata: af5ac6hrye -->
-<!-- metadata: wu3vglt56f -->
-<!-- metadata: 95ptztct85 -->
-<!-- metadata: p68ry9frg7 -->
-<!-- metadata: vnwz6ca1df -->
 
 
 ## 📖 Concept
@@ -59,6 +52,10 @@ Run the following command to install the necessary dependencies:
 ```bash
 npm install
 ```
+
+### 4. Running the Development Server
+
+Start the application on your local machine:
 
 ```bash
 npm run dev
