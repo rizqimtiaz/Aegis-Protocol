@@ -64,6 +64,10 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to access the dashboard.
 
 ---
+
+## 💻 Project Structure
+
+```text
 ├── app/
 │   ├── api/analyze-image/route.ts  # AI API route parsing image data and returning Zod schema
 │   ├── layout.tsx                 # Root layout with Web3 providers
@@ -80,7 +84,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 ├── tailwind.config.ts             # Custom CSS theme configs
 ├── next.config.mjs
 └── package.json
-<!-- metadata: 9vnj9r7r2p -->
 ```
 
 ---
