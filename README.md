@@ -86,6 +86,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 └── package.json
 ```
 
+---
+
 ## 🧠 AI Integration Mechanics
 
 The `app/api/analyze-image/route.ts` leverages `generateObject` from the Vercel AI SDK alongside a strict Zod schema. This ensures the Vision model doesn't just output text, but provides structured bounding box variables (`xMin`, `yMin`, `xMax`, `yMax`) relative to the image size (0.0 - 1.0).
@@ -106,7 +108,3 @@ It ensures that you can take the generated `imageHash`, the `trustScore`, and st
 ## 📝 License
 
 This project is open-source and available under the MIT License.
-<!-- metadata: zkbgpln6vc -->
-<!-- metadata: 4a30aehr6f -->
-<!-- metadata: ah7y7umsj7 -->
-<!-- metadata: lf70yxu780 -->
