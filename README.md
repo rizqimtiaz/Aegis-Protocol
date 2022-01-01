@@ -18,8 +18,6 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 
 ## 🛠️ Tech Stack & Architecture
 
-- **Framework**: Next.js 14 (App Router) & React
-- **Language**: TypeScript
 - **Styling**: Tailwind CSS & Framer Motion
 - **Web3**: Wagmi & Viem (Ethereum interactions)
 - **AI Integration**: Vercel AI SDK (`ai` package) with Anthropic Claude 3.5 Sonnet
@@ -76,6 +74,13 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 ├── components/
 │   ├── ForensicCanvas.tsx         # HTML5 Canvas mapping relative coordinates into UI overlays
 │   ├── UploadZone.tsx             # Drag-and-drop imagery upload component
+<!-- metadata: lksazng19z -->
+<!-- metadata: 2rc7e0a3x2 -->
+<!-- metadata: 7d1suvx1y6 -->
+<!-- metadata: dakbujbwtw -->
+<!-- metadata: xhe4alu8gy -->
+<!-- metadata: ynbzkbvu3q -->
+<!-- metadata: jyb03d2k4o -->
 │   └── Web3Provider.tsx           # Wagmi context provider
 ├── contracts/
 │   └── AegisRegistry.sol          # Decentralized registry smart contract
