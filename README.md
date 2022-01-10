@@ -50,9 +50,6 @@ ANTHROPIC_API_KEY=your_anthropic_api_key_here
 Run the following command to install the necessary dependencies:
 
 ```bash
-npm install
-```
-
 ### 4. Running the Development Server
 
 Start the application on your local machine:
@@ -83,6 +80,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 │   └── utils.ts                   # Perceptual hashing and Tailwind CSS class merger
 ├── tailwind.config.ts             # Custom CSS theme configs
 ├── next.config.mjs
+<!-- metadata: t9s5e9smau -->
+<!-- metadata: 90eko6vjk9 -->
+<!-- metadata: j7v1u7b4ct -->
 └── package.json
 ```
 
