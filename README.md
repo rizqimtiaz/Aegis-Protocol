@@ -26,9 +26,6 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 - **Smart Contract**: Solidity
 - **Image Processing**: HTML5 Canvas API
 
----
-
-## 🚀 Getting Started
 
 ### 1. Prerequisites
 
@@ -80,6 +77,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 ├── contracts/
 │   └── AegisRegistry.sol          # Decentralized registry smart contract
 ├── lib/
+<!-- metadata: nv3nj0e7xs -->
+<!-- metadata: gg4sk7kks4 -->
 │   └── utils.ts                   # Perceptual hashing and Tailwind CSS class merger
 ├── tailwind.config.ts             # Custom CSS theme configs
 ├── next.config.mjs
