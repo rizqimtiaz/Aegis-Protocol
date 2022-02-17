@@ -8,6 +8,9 @@
 ## 📖 Concept
 
 Aegis allows users to upload high-resolution images to a cyberpunk-themed dashboard. Behind the scenes:
+<!-- metadata: k9z2n124yh -->
+<!-- metadata: rakiarkq5w -->
+<!-- metadata: 8l82yv4kr9 -->
 1. The image data is sent to an elite AI model (Anthropic's Vision model via Vercel AI SDK).
 2. The AI acts as an expert digital forensic analyst, scanning for impossible geometry, lighting inconsistencies, and synthetic artifacts.
 3. It outputs a **Trust Score** and precise spatial coordinates of suspicious regions.
@@ -74,7 +77,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 │   ├── page.tsx                   # Main Dashboard UI
 │   └── globals.css                # Global CSS variables & Cyberpunk styling
 ├── components/
-│   ├── ForensicCanvas.tsx         # HTML5 Canvas mapping relative coordinates into UI overlays
 │   ├── UploadZone.tsx             # Drag-and-drop imagery upload component
 │   └── Web3Provider.tsx           # Wagmi context provider
 ├── contracts/
