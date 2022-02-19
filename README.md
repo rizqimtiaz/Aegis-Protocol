@@ -73,6 +73,15 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 │   ├── layout.tsx                 # Root layout with Web3 providers
 │   ├── page.tsx                   # Main Dashboard UI
 │   └── globals.css                # Global CSS variables & Cyberpunk styling
+<!-- metadata: 048h5p5sg6 -->
+<!-- metadata: ml2n7a0yv6 -->
+<!-- metadata: jf9quryon1 -->
+<!-- metadata: 136ld14584 -->
+<!-- metadata: vnmim9e19h -->
+<!-- metadata: p3anrrm7gx -->
+<!-- metadata: fgumeq33go -->
+<!-- metadata: wltbf012jc -->
+<!-- metadata: prn4ua66s8 -->
 ├── components/
 │   ├── ForensicCanvas.tsx         # HTML5 Canvas mapping relative coordinates into UI overlays
 │   ├── UploadZone.tsx             # Drag-and-drop imagery upload component
@@ -99,10 +108,6 @@ These relative coordinates are safely parsed within the `<ForensicCanvas />` com
 ## 🔒 Smart Contract
 
 The core smart contract logic is provided in `contracts/AegisRegistry.sol`. 
-It ensures that you can take the generated `imageHash`, the `trustScore`, and store it persistently on the blockchain to verify that an image was fact-checked at a specific point in time. 
-
-*(Note: You will need to deploy this contract via Hardhat, Foundry, or Remix to connect it fully to a live network, and update the `CONTRACT_ADDRESS` constant in `app/page.tsx`)*
-
 ---
 
 ## 📝 License
