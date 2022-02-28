@@ -35,11 +35,6 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 Ensure you have Node.js installed on your machine.
 - Node.js (v18+)
 - npm or yarn
-<!-- metadata: hxdfveecsh -->
-<!-- metadata: kw390qaifr -->
-<!-- metadata: 1epykn7h38 -->
-<!-- metadata: jkbpr9t0di -->
-<!-- metadata: gsyhrse9js -->
 
 ### 2. Environment Setup
 
@@ -93,6 +88,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 
 ---
 
+## 🧠 AI Integration Mechanics
+
+The `app/api/analyze-image/route.ts` leverages `generateObject` from the Vercel AI SDK alongside a strict Zod schema. This ensures the Vision model doesn't just output text, but provides structured bounding box variables (`xMin`, `yMin`, `xMax`, `yMax`) relative to the image size (0.0 - 1.0).
 
 These relative coordinates are safely parsed within the `<ForensicCanvas />` component, adapting to aspect ratios to accurately highlight visual anomalies with a glowing cyberpunk aesthetic.
 
