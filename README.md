@@ -26,6 +26,12 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 - **Smart Contract**: Solidity
 - **Image Processing**: HTML5 Canvas API
 
+<!-- metadata: m4z9kg8kyg -->
+<!-- metadata: nijp4wluie -->
+<!-- metadata: 2am8qe14ja -->
+<!-- metadata: 12ddib557h -->
+<!-- metadata: 6rvng5jnwq -->
+<!-- metadata: 1k2wyy756p -->
 ---
 
 ## 🚀 Getting Started
@@ -51,10 +57,6 @@ Run the following command to install the necessary dependencies:
 
 ```bash
 npm install
-```
-
-### 4. Running the Development Server
-
 Start the application on your local machine:
 
 ```bash
