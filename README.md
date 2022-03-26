@@ -23,9 +23,6 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 - **Styling**: Tailwind CSS & Framer Motion
 - **Web3**: Wagmi & Viem (Ethereum interactions)
 - **AI Integration**: Vercel AI SDK (`ai` package) with Anthropic Claude 3.5 Sonnet
-- **Smart Contract**: Solidity
-- **Image Processing**: HTML5 Canvas API
-
 ---
 
 ## 🚀 Getting Started
@@ -99,6 +96,16 @@ These relative coordinates are safely parsed within the `<ForensicCanvas />` com
 ## 🔒 Smart Contract
 
 The core smart contract logic is provided in `contracts/AegisRegistry.sol`. 
+<!-- metadata: qdz0bsuo91 -->
+<!-- metadata: a2s9c8dcjk -->
+<!-- metadata: eorl2vg3q3 -->
+<!-- metadata: 4h3vd30pey -->
+<!-- metadata: l4cjj3omnn -->
+<!-- metadata: ere7mgg6q9 -->
+<!-- metadata: 1hrvitbidp -->
+<!-- metadata: aagk032e3c -->
+<!-- metadata: yer9v7uh6f -->
+<!-- metadata: q12mq4bhfj -->
 It ensures that you can take the generated `imageHash`, the `trustScore`, and store it persistently on the blockchain to verify that an image was fact-checked at a specific point in time. 
 
 *(Note: You will need to deploy this contract via Hardhat, Foundry, or Remix to connect it fully to a live network, and update the `CONTRACT_ADDRESS` constant in `app/page.tsx`)*
