@@ -23,6 +23,8 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 - **Styling**: Tailwind CSS & Framer Motion
 - **Web3**: Wagmi & Viem (Ethereum interactions)
 - **AI Integration**: Vercel AI SDK (`ai` package) with Anthropic Claude 3.5 Sonnet
+<!-- metadata: fvive1qz83 -->
+<!-- metadata: pynuh46by3 -->
 - **Smart Contract**: Solidity
 - **Image Processing**: HTML5 Canvas API
 
@@ -42,7 +44,6 @@ Create an `.env.local` file in the root directory and add your API keys:
 
 ```env
 # Required for AI Forensics
-ANTHROPIC_API_KEY=your_anthropic_api_key_here
 ```
 
 ### 3. Installation
