@@ -29,12 +29,6 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 ---
 
 ## 🚀 Getting Started
-<!-- metadata: oe7um0uc50 -->
-<!-- metadata: fhxzbj6lig -->
-<!-- metadata: def7jcdioe -->
-<!-- metadata: 9fhjs2oijq -->
-<!-- metadata: p5l1yld6yr -->
-<!-- metadata: 0sekklyy59 -->
 
 ### 1. Prerequisites
 
@@ -66,6 +60,10 @@ Start the application on your local machine:
 ```bash
 npm run dev
 ```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to access the dashboard.
+
+---
 
 ## 💻 Project Structure
 
