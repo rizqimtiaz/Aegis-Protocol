@@ -1,12 +1,14 @@
 # 🛡️ Aegis Protocol: Decentralized Visual Forensics
 
 > A web3-enabled spatial forensics platform for digital imagery. As generative AI makes it harder to distinguish real from fake, Aegis acts as a cryptographic source of truth.
-
-<img width="1898" height="843" alt="image" src="https://github.com/user-attachments/assets/929fd212-f6ae-47f5-8783-3eaa33111741" />
-
-
 ## 📖 Concept
 
+<!-- metadata: ptibb91uk1 -->
+<!-- metadata: wp3a66hq5n -->
+<!-- metadata: e1j490oep2 -->
+<!-- metadata: cwyzpwkrl5 -->
+<!-- metadata: kx1f5qjb0j -->
+<!-- metadata: 79f9ospysj -->
 Aegis allows users to upload high-resolution images to a cyberpunk-themed dashboard. Behind the scenes:
 1. The image data is sent to an elite AI model (Anthropic's Vision model via Vercel AI SDK).
 2. The AI acts as an expert digital forensic analyst, scanning for impossible geometry, lighting inconsistencies, and synthetic artifacts.
