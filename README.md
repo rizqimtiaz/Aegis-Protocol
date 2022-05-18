@@ -13,12 +13,6 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 3. It outputs a **Trust Score** and precise spatial coordinates of suspicious regions.
 4. The frontend renders an interactive, glowing heatmap overlay directly on the image using the HTML5 Canvas API.
 5. The user can "Solidify" the report by generating a perceptual hash of the image and logging it onto a Solidity smart contract to create an immutable proof-of-analysis.
-<!-- metadata: 7njgvq63a3 -->
-<!-- metadata: rmhusit4e6 -->
-<!-- metadata: rhb9jq4s6o -->
-<!-- metadata: pjpjfeg2cn -->
-<!-- metadata: k8xgjzw4mi -->
-<!-- metadata: nld77lhra4 -->
 
 ---
 
@@ -100,6 +94,9 @@ The `app/api/analyze-image/route.ts` leverages `generateObject` from the Vercel 
 
 These relative coordinates are safely parsed within the `<ForensicCanvas />` component, adapting to aspect ratios to accurately highlight visual anomalies with a glowing cyberpunk aesthetic.
 
+---
+
+## 🔒 Smart Contract
 
 The core smart contract logic is provided in `contracts/AegisRegistry.sol`. 
 It ensures that you can take the generated `imageHash`, the `trustScore`, and store it persistently on the blockchain to verify that an image was fact-checked at a specific point in time. 
