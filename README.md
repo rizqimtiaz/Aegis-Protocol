@@ -38,10 +38,6 @@ Ensure you have Node.js installed on your machine.
 
 ### 2. Environment Setup
 
-Create an `.env.local` file in the root directory and add your API keys:
-
-```env
-# Required for AI Forensics
 ANTHROPIC_API_KEY=your_anthropic_api_key_here
 ```
 
@@ -53,6 +49,10 @@ Run the following command to install the necessary dependencies:
 npm install
 ```
 
+<!-- metadata: wf8jbndzyn -->
+<!-- metadata: bpszkh1zlu -->
+<!-- metadata: j3jsjucdgf -->
+<!-- metadata: d5huv67n8j -->
 ### 4. Running the Development Server
 
 Start the application on your local machine:
