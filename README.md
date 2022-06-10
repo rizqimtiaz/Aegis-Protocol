@@ -56,6 +56,8 @@ npm install
 ### 4. Running the Development Server
 
 Start the application on your local machine:
+
+```bash
 npm run dev
 ```
 
@@ -80,7 +82,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 ├── lib/
 │   └── utils.ts                   # Perceptual hashing and Tailwind CSS class merger
 ├── tailwind.config.ts             # Custom CSS theme configs
-<!-- metadata: kh90ld347p -->
 ├── next.config.mjs
 └── package.json
 ```
