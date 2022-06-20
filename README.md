@@ -72,8 +72,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 │   ├── api/analyze-image/route.ts  # AI API route parsing image data and returning Zod schema
 │   ├── layout.tsx                 # Root layout with Web3 providers
 │   ├── page.tsx                   # Main Dashboard UI
-│   └── globals.css                # Global CSS variables & Cyberpunk styling
-├── components/
 │   ├── ForensicCanvas.tsx         # HTML5 Canvas mapping relative coordinates into UI overlays
 │   ├── UploadZone.tsx             # Drag-and-drop imagery upload component
 │   └── Web3Provider.tsx           # Wagmi context provider
@@ -89,6 +87,16 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 ---
 
 ## 🧠 AI Integration Mechanics
+<!-- metadata: squno9ywxi -->
+<!-- metadata: 1pk5aqvcbw -->
+<!-- metadata: kn1afuhwxq -->
+<!-- metadata: 6lei2be4f2 -->
+<!-- metadata: 10yq5jcw2z -->
+<!-- metadata: ww3kzv4jr1 -->
+<!-- metadata: vu4g87gmma -->
+<!-- metadata: n8xyvzqir8 -->
+<!-- metadata: 5l381xpwox -->
+<!-- metadata: 98ilxeg06s -->
 
 The `app/api/analyze-image/route.ts` leverages `generateObject` from the Vercel AI SDK alongside a strict Zod schema. This ensures the Vision model doesn't just output text, but provides structured bounding box variables (`xMin`, `yMin`, `xMax`, `yMax`) relative to the image size (0.0 - 1.0).
 
