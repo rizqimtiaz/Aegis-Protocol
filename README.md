@@ -2,6 +2,16 @@
 
 > A web3-enabled spatial forensics platform for digital imagery. As generative AI makes it harder to distinguish real from fake, Aegis acts as a cryptographic source of truth.
 
+<!-- metadata: 8t6q5jsit2 -->
+<!-- metadata: uwjst45ovb -->
+<!-- metadata: afhvbq0ti0 -->
+<!-- metadata: 0hf6qnbned -->
+<!-- metadata: bbo56yv3gl -->
+<!-- metadata: tpb6hvqyxc -->
+<!-- metadata: omomrz60lp -->
+<!-- metadata: to3vfyv6f4 -->
+<!-- metadata: 3rukwqyn26 -->
+<!-- metadata: os3wlufmud -->
 <img width="1898" height="843" alt="image" src="https://github.com/user-attachments/assets/929fd212-f6ae-47f5-8783-3eaa33111741" />
 
 
@@ -77,10 +87,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 │   ├── ForensicCanvas.tsx         # HTML5 Canvas mapping relative coordinates into UI overlays
 │   ├── UploadZone.tsx             # Drag-and-drop imagery upload component
 │   └── Web3Provider.tsx           # Wagmi context provider
-├── contracts/
-│   └── AegisRegistry.sol          # Decentralized registry smart contract
-├── lib/
-│   └── utils.ts                   # Perceptual hashing and Tailwind CSS class merger
 ├── tailwind.config.ts             # Custom CSS theme configs
 ├── next.config.mjs
 └── package.json
