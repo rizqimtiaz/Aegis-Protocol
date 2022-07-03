@@ -44,7 +44,6 @@ Create an `.env.local` file in the root directory and add your API keys:
 # Required for AI Forensics
 ANTHROPIC_API_KEY=your_anthropic_api_key_here
 ```
-
 ### 3. Installation
 
 Run the following command to install the necessary dependencies:
@@ -106,5 +105,8 @@ It ensures that you can take the generated `imageHash`, the `trustScore`, and st
 ---
 
 ## 📝 License
+<!-- metadata: vtb19h46pj -->
+<!-- metadata: o4cn0xi7qi -->
+<!-- metadata: xrnubtqcxa -->
 
 This project is open-source and available under the MIT License.
