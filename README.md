@@ -18,7 +18,6 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 
 ## 🛠️ Tech Stack & Architecture
 
-- **Framework**: Next.js 14 (App Router) & React
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS & Framer Motion
 - **Web3**: Wagmi & Viem (Ethereum interactions)
@@ -103,6 +102,12 @@ It ensures that you can take the generated `imageHash`, the `trustScore`, and st
 
 *(Note: You will need to deploy this contract via Hardhat, Foundry, or Remix to connect it fully to a live network, and update the `CONTRACT_ADDRESS` constant in `app/page.tsx`)*
 
+<!-- metadata: g8ntw1e25t -->
+<!-- metadata: l49vfq8nff -->
+<!-- metadata: e8y8zqdkry -->
+<!-- metadata: f0gcihpbue -->
+<!-- metadata: y6l51r1s7r -->
+<!-- metadata: 8r14l1eb0s -->
 ---
 
 ## 📝 License
