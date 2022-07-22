@@ -61,10 +61,6 @@ Start the application on your local machine:
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to access the dashboard.
-
----
-
 ## 💻 Project Structure
 
 ```text
@@ -86,6 +82,16 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 └── package.json
 ```
 
+<!-- metadata: qhre58cowy -->
+<!-- metadata: tdxw72dmiw -->
+<!-- metadata: 9hb3236ln4 -->
+<!-- metadata: aqhojwlsed -->
+<!-- metadata: nn3tv68u2c -->
+<!-- metadata: 1406ookv4p -->
+<!-- metadata: gipo3hoc7u -->
+<!-- metadata: udic5tut58 -->
+<!-- metadata: sxee33za0t -->
+<!-- metadata: gyatrf7jwg -->
 ---
 
 ## 🧠 AI Integration Mechanics
