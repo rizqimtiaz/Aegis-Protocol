@@ -24,11 +24,6 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 - **Web3**: Wagmi & Viem (Ethereum interactions)
 - **AI Integration**: Vercel AI SDK (`ai` package) with Anthropic Claude 3.5 Sonnet
 - **Smart Contract**: Solidity
-<!-- metadata: yyy2do6h7r -->
-<!-- metadata: pvaciuxp3f -->
-<!-- metadata: e0coedjsn7 -->
-<!-- metadata: eg7f7pwyqw -->
-<!-- metadata: udsuupy741 -->
 - **Image Processing**: HTML5 Canvas API
 
 ---
@@ -51,6 +46,8 @@ ANTHROPIC_API_KEY=your_anthropic_api_key_here
 ```
 
 ### 3. Installation
+
+Run the following command to install the necessary dependencies:
 
 ```bash
 npm install
