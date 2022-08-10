@@ -68,9 +68,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 ## 💻 Project Structure
 
 ```text
-├── app/
-│   ├── api/analyze-image/route.ts  # AI API route parsing image data and returning Zod schema
-│   ├── layout.tsx                 # Root layout with Web3 providers
 │   ├── page.tsx                   # Main Dashboard UI
 │   └── globals.css                # Global CSS variables & Cyberpunk styling
 ├── components/
@@ -82,6 +79,13 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 ├── lib/
 │   └── utils.ts                   # Perceptual hashing and Tailwind CSS class merger
 ├── tailwind.config.ts             # Custom CSS theme configs
+<!-- metadata: 9amubg2ila -->
+<!-- metadata: il5avdwarr -->
+<!-- metadata: 2yp82eeizp -->
+<!-- metadata: py3hfbxgmo -->
+<!-- metadata: fqnuiv9rqw -->
+<!-- metadata: 953homaizn -->
+<!-- metadata: fe1ycrlv7z -->
 ├── next.config.mjs
 └── package.json
 ```
