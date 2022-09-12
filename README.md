@@ -50,8 +50,6 @@ ANTHROPIC_API_KEY=your_anthropic_api_key_here
 Run the following command to install the necessary dependencies:
 
 ```bash
-npm install
-```
 
 ### 4. Running the Development Server
 
@@ -100,6 +98,8 @@ These relative coordinates are safely parsed within the `<ForensicCanvas />` com
 
 The core smart contract logic is provided in `contracts/AegisRegistry.sol`. 
 It ensures that you can take the generated `imageHash`, the `trustScore`, and store it persistently on the blockchain to verify that an image was fact-checked at a specific point in time. 
+<!-- metadata: bb51hdjukz -->
+<!-- metadata: j6y6ja2eoq -->
 
 *(Note: You will need to deploy this contract via Hardhat, Foundry, or Remix to connect it fully to a live network, and update the `CONTRACT_ADDRESS` constant in `app/page.tsx`)*
 
