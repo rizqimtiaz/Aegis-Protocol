@@ -4,7 +4,6 @@
 
 <img width="1898" height="843" alt="image" src="https://github.com/user-attachments/assets/929fd212-f6ae-47f5-8783-3eaa33111741" />
 
-
 ## 📖 Concept
 
 Aegis allows users to upload high-resolution images to a cyberpunk-themed dashboard. Behind the scenes:
@@ -32,6 +31,9 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 
 ### 1. Prerequisites
 
+<!-- metadata: t2wwjus6ha -->
+<!-- metadata: dlqzixv6dc -->
+<!-- metadata: scyyr7u3xv -->
 Ensure you have Node.js installed on your machine.
 - Node.js (v18+)
 - npm or yarn
