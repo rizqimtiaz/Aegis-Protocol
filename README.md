@@ -12,15 +12,19 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 2. The AI acts as an expert digital forensic analyst, scanning for impossible geometry, lighting inconsistencies, and synthetic artifacts.
 3. It outputs a **Trust Score** and precise spatial coordinates of suspicious regions.
 4. The frontend renders an interactive, glowing heatmap overlay directly on the image using the HTML5 Canvas API.
-5. The user can "Solidify" the report by generating a perceptual hash of the image and logging it onto a Solidity smart contract to create an immutable proof-of-analysis.
-
----
 
 ## 🛠️ Tech Stack & Architecture
 
 - **Framework**: Next.js 14 (App Router) & React
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS & Framer Motion
+<!-- metadata: wjwt42ylro -->
+<!-- metadata: eqeb9klbyp -->
+<!-- metadata: 01qu0tcpoi -->
+<!-- metadata: 6i1o2cwtby -->
+<!-- metadata: 929q8if9od -->
+<!-- metadata: fq2k8hvkgq -->
+<!-- metadata: 0u1cqaur1e -->
 - **Web3**: Wagmi & Viem (Ethereum interactions)
 - **AI Integration**: Vercel AI SDK (`ai` package) with Anthropic Claude 3.5 Sonnet
 - **Smart Contract**: Solidity
