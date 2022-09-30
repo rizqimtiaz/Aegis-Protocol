@@ -30,12 +30,6 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 
 ## 🚀 Getting Started
 
-<!-- metadata: of23e2xwxq -->
-<!-- metadata: e08gm59m56 -->
-<!-- metadata: 58uoxd8kav -->
-<!-- metadata: ehvf9psb1x -->
-<!-- metadata: 95uaupvx5h -->
-<!-- metadata: q45rfgfog9 -->
 ### 1. Prerequisites
 
 Ensure you have Node.js installed on your machine.
@@ -74,6 +68,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 ## 💻 Project Structure
 
 ```text
+├── app/
+│   ├── api/analyze-image/route.ts  # AI API route parsing image data and returning Zod schema
+│   ├── layout.tsx                 # Root layout with Web3 providers
+│   ├── page.tsx                   # Main Dashboard UI
 │   └── globals.css                # Global CSS variables & Cyberpunk styling
 ├── components/
 │   ├── ForensicCanvas.tsx         # HTML5 Canvas mapping relative coordinates into UI overlays
