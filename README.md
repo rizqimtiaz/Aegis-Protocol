@@ -1,3 +1,5 @@
+# 🛡️ Aegis Protocol: Decentralized Visual Forensics
+
 > A web3-enabled spatial forensics platform for digital imagery. As generative AI makes it harder to distinguish real from fake, Aegis acts as a cryptographic source of truth.
 
 <img width="1898" height="843" alt="image" src="https://github.com/user-attachments/assets/929fd212-f6ae-47f5-8783-3eaa33111741" />
@@ -104,9 +106,5 @@ It ensures that you can take the generated `imageHash`, the `trustScore`, and st
 ---
 
 ## 📝 License
-<!-- metadata: yxuopznlrh -->
-<!-- metadata: cbu8z5ul8n -->
-<!-- metadata: rgv2bavd4o -->
-<!-- metadata: w1arnyoz3y -->
 
 This project is open-source and available under the MIT License.
