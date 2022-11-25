@@ -43,11 +43,12 @@ Create an `.env.local` file in the root directory and add your API keys:
 ```env
 # Required for AI Forensics
 ANTHROPIC_API_KEY=your_anthropic_api_key_here
-<!-- metadata: cyz19xif44 -->
-<!-- metadata: w0jmrzjlok -->
 ```
 
 ### 3. Installation
+
+Run the following command to install the necessary dependencies:
+
 ```bash
 npm install
 ```
