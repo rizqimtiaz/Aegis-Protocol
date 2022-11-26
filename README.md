@@ -96,8 +96,6 @@ These relative coordinates are safely parsed within the `<ForensicCanvas />` com
 
 ---
 
-## 🔒 Smart Contract
-
 The core smart contract logic is provided in `contracts/AegisRegistry.sol`. 
 It ensures that you can take the generated `imageHash`, the `trustScore`, and store it persistently on the blockchain to verify that an image was fact-checked at a specific point in time. 
 
@@ -107,4 +105,12 @@ It ensures that you can take the generated `imageHash`, the `trustScore`, and st
 
 ## 📝 License
 
+<!-- metadata: 0kgftjdwsc -->
+<!-- metadata: h1qkf8dma5 -->
+<!-- metadata: osr9nihkc8 -->
+<!-- metadata: w42bqinqyl -->
+<!-- metadata: 6bf0au8obs -->
+<!-- metadata: j96ct6rrku -->
+<!-- metadata: d3v1tmis8p -->
+<!-- metadata: hg5lozb3bu -->
 This project is open-source and available under the MIT License.
