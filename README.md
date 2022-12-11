@@ -57,10 +57,6 @@ npm install
 
 Start the application on your local machine:
 
-```bash
-npm run dev
-```
-
 Open [http://localhost:3000](http://localhost:3000) with your browser to access the dashboard.
 
 ---
@@ -74,6 +70,13 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 │   ├── page.tsx                   # Main Dashboard UI
 │   └── globals.css                # Global CSS variables & Cyberpunk styling
 ├── components/
+<!-- metadata: s92qx9lj0v -->
+<!-- metadata: j1dq1zaicz -->
+<!-- metadata: ohanvvwxxn -->
+<!-- metadata: xl98x8mtbr -->
+<!-- metadata: 2f0o34i4t6 -->
+<!-- metadata: mqzdgixqqj -->
+<!-- metadata: 4bm75zuk46 -->
 │   ├── ForensicCanvas.tsx         # HTML5 Canvas mapping relative coordinates into UI overlays
 │   ├── UploadZone.tsx             # Drag-and-drop imagery upload component
 │   └── Web3Provider.tsx           # Wagmi context provider
