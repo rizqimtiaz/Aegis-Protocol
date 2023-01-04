@@ -45,8 +45,6 @@ Create an `.env.local` file in the root directory and add your API keys:
 ANTHROPIC_API_KEY=your_anthropic_api_key_here
 ```
 
-### 3. Installation
-
 Run the following command to install the necessary dependencies:
 
 ```bash
@@ -63,6 +61,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to access the dashboard.
 
+<!-- metadata: e4xbtvtab4 -->
 ---
 
 ## 💻 Project Structure
