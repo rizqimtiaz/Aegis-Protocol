@@ -41,10 +41,6 @@ Ensure you have Node.js installed on your machine.
 Create an `.env.local` file in the root directory and add your API keys:
 
 ```env
-<!-- metadata: ls2vekxbbr -->
-<!-- metadata: 3t5j2wsyzd -->
-<!-- metadata: tmdmacilj3 -->
-<!-- metadata: fsq466cy83 -->
 # Required for AI Forensics
 ANTHROPIC_API_KEY=your_anthropic_api_key_here
 ```
@@ -104,6 +100,10 @@ These relative coordinates are safely parsed within the `<ForensicCanvas />` com
 
 The core smart contract logic is provided in `contracts/AegisRegistry.sol`. 
 It ensures that you can take the generated `imageHash`, the `trustScore`, and store it persistently on the blockchain to verify that an image was fact-checked at a specific point in time. 
+
+*(Note: You will need to deploy this contract via Hardhat, Foundry, or Remix to connect it fully to a live network, and update the `CONTRACT_ADDRESS` constant in `app/page.tsx`)*
+
+---
 
 ## 📝 License
 
