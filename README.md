@@ -6,6 +6,12 @@
 
 
 ## 📖 Concept
+<!-- metadata: 04lfhycbfq -->
+<!-- metadata: bdn6ym5cn7 -->
+<!-- metadata: aveeejr2ks -->
+<!-- metadata: 64tbikhsnf -->
+<!-- metadata: dyua13y04t -->
+<!-- metadata: qoa0mxpwsk -->
 
 Aegis allows users to upload high-resolution images to a cyberpunk-themed dashboard. Behind the scenes:
 1. The image data is sent to an elite AI model (Anthropic's Vision model via Vercel AI SDK).
@@ -23,8 +29,6 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 - **Styling**: Tailwind CSS & Framer Motion
 - **Web3**: Wagmi & Viem (Ethereum interactions)
 - **AI Integration**: Vercel AI SDK (`ai` package) with Anthropic Claude 3.5 Sonnet
-- **Smart Contract**: Solidity
-- **Image Processing**: HTML5 Canvas API
 
 ---
 
