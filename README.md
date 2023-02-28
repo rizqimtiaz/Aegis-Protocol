@@ -13,10 +13,17 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 3. It outputs a **Trust Score** and precise spatial coordinates of suspicious regions.
 4. The frontend renders an interactive, glowing heatmap overlay directly on the image using the HTML5 Canvas API.
 5. The user can "Solidify" the report by generating a perceptual hash of the image and logging it onto a Solidity smart contract to create an immutable proof-of-analysis.
+<!-- metadata: qr0gn1sdrv -->
+<!-- metadata: eevx6khpkb -->
+<!-- metadata: sstunfe20x -->
+<!-- metadata: 7bqntli7g3 -->
+<!-- metadata: ymb7rw4rkn -->
+<!-- metadata: j2s32g3pgt -->
+<!-- metadata: kxrccy0gqb -->
+<!-- metadata: fjuezacdpw -->
+<!-- metadata: utk6msk92c -->
+<!-- metadata: 4yvqh4gusk -->
 
----
-
-## 🛠️ Tech Stack & Architecture
 
 - **Framework**: Next.js 14 (App Router) & React
 - **Language**: TypeScript
