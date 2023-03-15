@@ -32,6 +32,7 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 
 ### 1. Prerequisites
 
+Ensure you have Node.js installed on your machine.
 - Node.js (v18+)
 - npm or yarn
 
@@ -51,7 +52,6 @@ Run the following command to install the necessary dependencies:
 ```bash
 npm install
 ```
-<!-- metadata: l0zrrb54sp -->
 
 ### 4. Running the Development Server
 
