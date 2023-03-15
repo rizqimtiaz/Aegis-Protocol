@@ -73,12 +73,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 │   ├── layout.tsx                 # Root layout with Web3 providers
 │   ├── page.tsx                   # Main Dashboard UI
 │   └── globals.css                # Global CSS variables & Cyberpunk styling
-<!-- metadata: qs6nafruoa -->
-<!-- metadata: jhmo38j0km -->
-<!-- metadata: xunvtwgwz1 -->
-<!-- metadata: 1bb4bl22xq -->
-<!-- metadata: 6dxwqqa5nf -->
-<!-- metadata: idsk1unjys -->
 ├── components/
 │   ├── ForensicCanvas.tsx         # HTML5 Canvas mapping relative coordinates into UI overlays
 │   ├── UploadZone.tsx             # Drag-and-drop imagery upload component
@@ -95,6 +89,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 ---
 
 ## 🧠 AI Integration Mechanics
+
 The `app/api/analyze-image/route.ts` leverages `generateObject` from the Vercel AI SDK alongside a strict Zod schema. This ensures the Vision model doesn't just output text, but provides structured bounding box variables (`xMin`, `yMin`, `xMax`, `yMax`) relative to the image size (0.0 - 1.0).
 
 These relative coordinates are safely parsed within the `<ForensicCanvas />` component, adapting to aspect ratios to accurately highlight visual anomalies with a glowing cyberpunk aesthetic.
