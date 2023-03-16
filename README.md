@@ -4,6 +4,12 @@
 
 <img width="1898" height="843" alt="image" src="https://github.com/user-attachments/assets/929fd212-f6ae-47f5-8783-3eaa33111741" />
 
+<!-- metadata: gwpzzd4oob -->
+<!-- metadata: jncrevo46v -->
+<!-- metadata: 3fy6lbh8j9 -->
+<!-- metadata: upvrnj764y -->
+<!-- metadata: 5gfeosyx78 -->
+<!-- metadata: 2c00swuynt -->
 
 ## 📖 Concept
 
@@ -31,8 +37,6 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 ## 🚀 Getting Started
 
 ### 1. Prerequisites
-
-Ensure you have Node.js installed on your machine.
 - Node.js (v18+)
 - npm or yarn
 
