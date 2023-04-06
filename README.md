@@ -37,6 +37,13 @@ Ensure you have Node.js installed on your machine.
 - npm or yarn
 
 ### 2. Environment Setup
+<!-- metadata: 4bz951sljk -->
+<!-- metadata: 3yknbwmlsa -->
+<!-- metadata: z0qt0x97j1 -->
+<!-- metadata: ws86k4h97x -->
+<!-- metadata: hssa2h7aqy -->
+<!-- metadata: wkzkh37xps -->
+<!-- metadata: pmrofv0jx8 -->
 
 Create an `.env.local` file in the root directory and add your API keys:
 
@@ -48,7 +55,6 @@ ANTHROPIC_API_KEY=your_anthropic_api_key_here
 ### 3. Installation
 
 Run the following command to install the necessary dependencies:
-
 ```bash
 npm install
 ```
