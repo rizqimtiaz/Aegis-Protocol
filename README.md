@@ -5,9 +5,6 @@
 <img width="1898" height="843" alt="image" src="https://github.com/user-attachments/assets/929fd212-f6ae-47f5-8783-3eaa33111741" />
 
 
-<!-- metadata: p1vunz9da5 -->
-<!-- metadata: h5y7sab73x -->
-<!-- metadata: esylsm7suk -->
 ## 📖 Concept
 
 Aegis allows users to upload high-resolution images to a cyberpunk-themed dashboard. Behind the scenes:
@@ -53,6 +50,9 @@ ANTHROPIC_API_KEY=your_anthropic_api_key_here
 Run the following command to install the necessary dependencies:
 
 ```bash
+npm install
+```
+
 ### 4. Running the Development Server
 
 Start the application on your local machine:
