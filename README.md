@@ -43,7 +43,6 @@ Create an `.env.local` file in the root directory and add your API keys:
 ```env
 # Required for AI Forensics
 ANTHROPIC_API_KEY=your_anthropic_api_key_here
-```
 
 ### 3. Installation
 
@@ -86,6 +85,14 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 └── package.json
 ```
 
+<!-- metadata: hb7kqrn06i -->
+<!-- metadata: 2yp47mgs43 -->
+<!-- metadata: trp0mxbs5z -->
+<!-- metadata: 2c5vud4frt -->
+<!-- metadata: hj25g90nva -->
+<!-- metadata: bbmonxeq2e -->
+<!-- metadata: w1rft26nvj -->
+<!-- metadata: 3j4icufwww -->
 ---
 
 ## 🧠 AI Integration Mechanics
