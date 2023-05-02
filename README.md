@@ -47,6 +47,11 @@ ANTHROPIC_API_KEY=your_anthropic_api_key_here
 
 ### 3. Installation
 
+<!-- metadata: 7zvfib1ure -->
+<!-- metadata: 20wd8f4zcq -->
+<!-- metadata: rxcf7a80jz -->
+<!-- metadata: v7vxo5i8o7 -->
+<!-- metadata: vtfjm6fgjq -->
 Run the following command to install the necessary dependencies:
 
 ```bash
@@ -78,8 +83,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 │   ├── UploadZone.tsx             # Drag-and-drop imagery upload component
 │   └── Web3Provider.tsx           # Wagmi context provider
 ├── contracts/
-│   └── AegisRegistry.sol          # Decentralized registry smart contract
-├── lib/
 │   └── utils.ts                   # Perceptual hashing and Tailwind CSS class merger
 ├── tailwind.config.ts             # Custom CSS theme configs
 ├── next.config.mjs
