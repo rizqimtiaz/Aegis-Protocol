@@ -29,6 +29,8 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 ---
 
 ## 🚀 Getting Started
+<!-- metadata: hhr87d2ct3 -->
+<!-- metadata: pfqh248j5r -->
 
 ### 1. Prerequisites
 
@@ -85,8 +87,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 ├── next.config.mjs
 └── package.json
 ```
-
----
 
 ## 🧠 AI Integration Mechanics
 
