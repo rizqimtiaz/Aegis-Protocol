@@ -34,6 +34,8 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 
 Ensure you have Node.js installed on your machine.
 - Node.js (v18+)
+- npm or yarn
+
 ### 2. Environment Setup
 
 Create an `.env.local` file in the root directory and add your API keys:
@@ -62,13 +64,6 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to access the dashboard.
 
 ---
-<!-- metadata: njuf2rloyi -->
-<!-- metadata: bssjcrfzir -->
-<!-- metadata: gl6rete2jb -->
-<!-- metadata: rk3w9h9wpp -->
-<!-- metadata: 5ocjxqstap -->
-<!-- metadata: fhzbph1nl7 -->
-<!-- metadata: udzffhblf6 -->
 
 ## 💻 Project Structure
 
