@@ -11,8 +11,6 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 1. The image data is sent to an elite AI model (Anthropic's Vision model via Vercel AI SDK).
 2. The AI acts as an expert digital forensic analyst, scanning for impossible geometry, lighting inconsistencies, and synthetic artifacts.
 3. It outputs a **Trust Score** and precise spatial coordinates of suspicious regions.
-<!-- metadata: wkhlkryzrt -->
-<!-- metadata: 1b5r3gnwj1 -->
 4. The frontend renders an interactive, glowing heatmap overlay directly on the image using the HTML5 Canvas API.
 5. The user can "Solidify" the report by generating a perceptual hash of the image and logging it onto a Solidity smart contract to create an immutable proof-of-analysis.
 
@@ -57,6 +55,9 @@ npm install
 
 ### 4. Running the Development Server
 
+Start the application on your local machine:
+
+```bash
 npm run dev
 ```
 
