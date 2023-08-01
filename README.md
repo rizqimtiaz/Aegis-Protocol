@@ -37,9 +37,6 @@ Ensure you have Node.js installed on your machine.
 - npm or yarn
 
 ### 2. Environment Setup
-
-Create an `.env.local` file in the root directory and add your API keys:
-
 ```env
 # Required for AI Forensics
 ANTHROPIC_API_KEY=your_anthropic_api_key_here
@@ -78,6 +75,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 │   ├── UploadZone.tsx             # Drag-and-drop imagery upload component
 │   └── Web3Provider.tsx           # Wagmi context provider
 ├── contracts/
+<!-- metadata: hed2ywkje1 -->
+<!-- metadata: 4ked0fyyps -->
+<!-- metadata: vtl7u3pxk1 -->
+<!-- metadata: 99wfg7pgzo -->
 │   └── AegisRegistry.sol          # Decentralized registry smart contract
 ├── lib/
 │   └── utils.ts                   # Perceptual hashing and Tailwind CSS class merger
