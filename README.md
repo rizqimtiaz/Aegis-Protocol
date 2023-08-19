@@ -1,14 +1,4 @@
 # 🛡️ Aegis Protocol: Decentralized Visual Forensics
-<!-- metadata: xzwwyvq0pi -->
-<!-- metadata: kdrlea7d14 -->
-<!-- metadata: 7lxqynvbq2 -->
-<!-- metadata: dcractvwxs -->
-<!-- metadata: nb22bntcer -->
-<!-- metadata: hjyqxsxb6b -->
-<!-- metadata: hmmgl2u542 -->
-<!-- metadata: 48g2nxgddk -->
-<!-- metadata: pevhyn1e58 -->
-<!-- metadata: zuuq3iet6u -->
 
 > A web3-enabled spatial forensics platform for digital imagery. As generative AI makes it harder to distinguish real from fake, Aegis acts as a cryptographic source of truth.
 
@@ -93,6 +83,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 │   └── utils.ts                   # Perceptual hashing and Tailwind CSS class merger
 ├── tailwind.config.ts             # Custom CSS theme configs
 ├── next.config.mjs
+└── package.json
+```
+
+---
 
 ## 🧠 AI Integration Mechanics
 
