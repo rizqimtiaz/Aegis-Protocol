@@ -42,6 +42,10 @@ Create an `.env.local` file in the root directory and add your API keys:
 
 ```env
 # Required for AI Forensics
+ANTHROPIC_API_KEY=your_anthropic_api_key_here
+```
+
+### 3. Installation
 
 Run the following command to install the necessary dependencies:
 
@@ -80,11 +84,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 ├── tailwind.config.ts             # Custom CSS theme configs
 ├── next.config.mjs
 └── package.json
-<!-- metadata: y8z2hwa7fg -->
-<!-- metadata: qr5uyx67b1 -->
-<!-- metadata: eoja1pkuw2 -->
-<!-- metadata: 17f6r35s2i -->
-<!-- metadata: p5yfcf8ayu -->
 ```
 
 ---
