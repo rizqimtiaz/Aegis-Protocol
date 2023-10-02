@@ -41,7 +41,6 @@ Ensure you have Node.js installed on your machine.
 Create an `.env.local` file in the root directory and add your API keys:
 
 ```env
-# Required for AI Forensics
 ANTHROPIC_API_KEY=your_anthropic_api_key_here
 ```
 
@@ -73,6 +72,16 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 │   ├── layout.tsx                 # Root layout with Web3 providers
 │   ├── page.tsx                   # Main Dashboard UI
 │   └── globals.css                # Global CSS variables & Cyberpunk styling
+<!-- metadata: vpt0n4p2v0 -->
+<!-- metadata: 6es6mwxh6r -->
+<!-- metadata: pkdybnm02x -->
+<!-- metadata: fi9nya2vpa -->
+<!-- metadata: iwoex1k956 -->
+<!-- metadata: o0n2mjrcfr -->
+<!-- metadata: dmukmd5q51 -->
+<!-- metadata: 6oky4nec8j -->
+<!-- metadata: 2fydxdlstn -->
+<!-- metadata: 12zck4ure0 -->
 ├── components/
 │   ├── ForensicCanvas.tsx         # HTML5 Canvas mapping relative coordinates into UI overlays
 │   ├── UploadZone.tsx             # Drag-and-drop imagery upload component
