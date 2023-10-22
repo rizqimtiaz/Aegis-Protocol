@@ -74,11 +74,13 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 │   ├── page.tsx                   # Main Dashboard UI
 │   └── globals.css                # Global CSS variables & Cyberpunk styling
 ├── components/
-│   ├── ForensicCanvas.tsx         # HTML5 Canvas mapping relative coordinates into UI overlays
 │   ├── UploadZone.tsx             # Drag-and-drop imagery upload component
 │   └── Web3Provider.tsx           # Wagmi context provider
 ├── contracts/
 │   └── AegisRegistry.sol          # Decentralized registry smart contract
+<!-- metadata: he9rh58ap2 -->
+<!-- metadata: 5ooepc2lk8 -->
+<!-- metadata: kujbcrshx0 -->
 ├── lib/
 │   └── utils.ts                   # Perceptual hashing and Tailwind CSS class merger
 ├── tailwind.config.ts             # Custom CSS theme configs
