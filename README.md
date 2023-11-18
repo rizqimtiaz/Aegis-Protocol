@@ -49,6 +49,8 @@ ANTHROPIC_API_KEY=your_anthropic_api_key_here
 
 Run the following command to install the necessary dependencies:
 
+```bash
+npm install
 ```
 
 ### 4. Running the Development Server
@@ -61,14 +63,6 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to access the dashboard.
 
-<!-- metadata: neir5kxv3d -->
-<!-- metadata: lejuubh0sn -->
-<!-- metadata: v0p13amncw -->
-<!-- metadata: hljl9veuxm -->
-<!-- metadata: v1467jm8n9 -->
-<!-- metadata: wlvb6vs5eh -->
-<!-- metadata: hnls8fxdts -->
-<!-- metadata: 8pywkrfveb -->
 ---
 
 ## 💻 Project Structure
