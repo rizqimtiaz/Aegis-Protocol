@@ -7,6 +7,10 @@
 
 ## 📖 Concept
 
+Aegis allows users to upload high-resolution images to a cyberpunk-themed dashboard. Behind the scenes:
+1. The image data is sent to an elite AI model (Anthropic's Vision model via Vercel AI SDK).
+2. The AI acts as an expert digital forensic analyst, scanning for impossible geometry, lighting inconsistencies, and synthetic artifacts.
+3. It outputs a **Trust Score** and precise spatial coordinates of suspicious regions.
 4. The frontend renders an interactive, glowing heatmap overlay directly on the image using the HTML5 Canvas API.
 5. The user can "Solidify" the report by generating a perceptual hash of the image and logging it onto a Solidity smart contract to create an immutable proof-of-analysis.
 
@@ -73,15 +77,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 │   ├── ForensicCanvas.tsx         # HTML5 Canvas mapping relative coordinates into UI overlays
 │   ├── UploadZone.tsx             # Drag-and-drop imagery upload component
 │   └── Web3Provider.tsx           # Wagmi context provider
-<!-- metadata: 29xmu3pvvs -->
-<!-- metadata: jj48ucmwla -->
-<!-- metadata: q7nft3ytnh -->
-<!-- metadata: b0x84g7ube -->
-<!-- metadata: ldulhc7de7 -->
-<!-- metadata: zbztz8zpyu -->
-<!-- metadata: 55b99gwu1b -->
-<!-- metadata: wufx9xem0l -->
-<!-- metadata: stlj307z1u -->
 ├── contracts/
 │   └── AegisRegistry.sol          # Decentralized registry smart contract
 ├── lib/
