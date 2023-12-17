@@ -4,6 +4,7 @@
 
 <img width="1898" height="843" alt="image" src="https://github.com/user-attachments/assets/929fd212-f6ae-47f5-8783-3eaa33111741" />
 
+
 ## 📖 Concept
 
 Aegis allows users to upload high-resolution images to a cyberpunk-themed dashboard. Behind the scenes:
@@ -107,11 +108,3 @@ It ensures that you can take the generated `imageHash`, the `trustScore`, and st
 ## 📝 License
 
 This project is open-source and available under the MIT License.
-<!-- metadata: jyjsey3nos -->
-<!-- metadata: lqgysg8y7m -->
-<!-- metadata: fbz7bzi4cj -->
-<!-- metadata: 2df327y4qm -->
-<!-- metadata: d85ggr10j9 -->
-<!-- metadata: ohk8lso0et -->
-<!-- metadata: 4d8r6p9so6 -->
-<!-- metadata: rco9vid1ro -->
