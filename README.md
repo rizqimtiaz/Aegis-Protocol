@@ -16,11 +16,6 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 
 ---
 
-<!-- metadata: w5wqtv9c4e -->
-<!-- metadata: zn9kacpw96 -->
-<!-- metadata: 4oka8dz254 -->
-<!-- metadata: 2u9il3b6ap -->
-<!-- metadata: fds3afw2ld -->
 ## 🛠️ Tech Stack & Architecture
 
 - **Framework**: Next.js 14 (App Router) & React
@@ -55,6 +50,8 @@ ANTHROPIC_API_KEY=your_anthropic_api_key_here
 Run the following command to install the necessary dependencies:
 
 ```bash
+npm install
+```
 
 ### 4. Running the Development Server
 
