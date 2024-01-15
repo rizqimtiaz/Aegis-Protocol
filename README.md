@@ -5,6 +5,7 @@
 <img width="1898" height="843" alt="image" src="https://github.com/user-attachments/assets/929fd212-f6ae-47f5-8783-3eaa33111741" />
 
 
+## 📖 Concept
 
 Aegis allows users to upload high-resolution images to a cyberpunk-themed dashboard. Behind the scenes:
 1. The image data is sent to an elite AI model (Anthropic's Vision model via Vercel AI SDK).
@@ -68,13 +69,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 
 ```text
 ├── app/
-<!-- metadata: ia1vib7bz2 -->
-<!-- metadata: 3e6f3rh17l -->
-<!-- metadata: bvp4xqbsbl -->
-<!-- metadata: z16oboaxzn -->
-<!-- metadata: hfsvvnjupu -->
-<!-- metadata: spf2oeahqp -->
-<!-- metadata: snzuskezma -->
 │   ├── api/analyze-image/route.ts  # AI API route parsing image data and returning Zod schema
 │   ├── layout.tsx                 # Root layout with Web3 providers
 │   ├── page.tsx                   # Main Dashboard UI
