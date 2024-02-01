@@ -43,9 +43,6 @@ Create an `.env.local` file in the root directory and add your API keys:
 ```env
 # Required for AI Forensics
 ANTHROPIC_API_KEY=your_anthropic_api_key_here
-<!-- metadata: 9dmzyr9bz9 -->
-<!-- metadata: rd0z8y7uu3 -->
-<!-- metadata: choidylqm7 -->
 ```
 
 ### 3. Installation
@@ -67,6 +64,8 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to access the dashboard.
 
 ---
+
+## 💻 Project Structure
 
 ```text
 ├── app/
