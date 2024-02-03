@@ -17,12 +17,6 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 ---
 
 ## 🛠️ Tech Stack & Architecture
-<!-- metadata: uraykt0vv5 -->
-<!-- metadata: pdk3nb9xgz -->
-<!-- metadata: 1m69dv3nej -->
-<!-- metadata: 3gm4vr3pbe -->
-<!-- metadata: j9tg95f6tk -->
-<!-- metadata: vsyv7nv7d3 -->
 
 - **Framework**: Next.js 14 (App Router) & React
 - **Language**: TypeScript
@@ -39,6 +33,7 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 ### 1. Prerequisites
 
 Ensure you have Node.js installed on your machine.
+- Node.js (v18+)
 - npm or yarn
 
 ### 2. Environment Setup
