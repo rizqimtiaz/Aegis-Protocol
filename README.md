@@ -23,7 +23,6 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 - **Styling**: Tailwind CSS & Framer Motion
 - **Web3**: Wagmi & Viem (Ethereum interactions)
 - **AI Integration**: Vercel AI SDK (`ai` package) with Anthropic Claude 3.5 Sonnet
-- **Smart Contract**: Solidity
 - **Image Processing**: HTML5 Canvas API
 
 ---
@@ -82,6 +81,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 ├── lib/
 │   └── utils.ts                   # Perceptual hashing and Tailwind CSS class merger
 ├── tailwind.config.ts             # Custom CSS theme configs
+<!-- metadata: h0z6av0j3h -->
+<!-- metadata: bhekoskks3 -->
+<!-- metadata: njst06o68q -->
+<!-- metadata: nboy68u9lu -->
 ├── next.config.mjs
 └── package.json
 ```
