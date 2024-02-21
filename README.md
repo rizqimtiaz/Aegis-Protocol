@@ -16,13 +16,6 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 
 ---
 
-<!-- metadata: dfq08m0cqq -->
-<!-- metadata: uzfb3azlfx -->
-<!-- metadata: r97ns7vsgk -->
-<!-- metadata: 6kw689tpvj -->
-<!-- metadata: 2vixt8ku4c -->
-<!-- metadata: jjibdex7bj -->
-<!-- metadata: 954qzg6qio -->
 ## 🛠️ Tech Stack & Architecture
 
 - **Framework**: Next.js 14 (App Router) & React
@@ -67,6 +60,8 @@ Start the application on your local machine:
 ```bash
 npm run dev
 ```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to access the dashboard.
 
 ---
 
