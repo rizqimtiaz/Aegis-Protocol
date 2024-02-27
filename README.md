@@ -61,6 +61,7 @@ Start the application on your local machine:
 npm run dev
 ```
 
+Open [http://localhost:3000](http://localhost:3000) with your browser to access the dashboard.
 
 ---
 
@@ -91,8 +92,6 @@ npm run dev
 
 The `app/api/analyze-image/route.ts` leverages `generateObject` from the Vercel AI SDK alongside a strict Zod schema. This ensures the Vision model doesn't just output text, but provides structured bounding box variables (`xMin`, `yMin`, `xMax`, `yMax`) relative to the image size (0.0 - 1.0).
 
-<!-- metadata: raeoao0ko5 -->
-<!-- metadata: 2mm2x6ll7k -->
 These relative coordinates are safely parsed within the `<ForensicCanvas />` component, adapting to aspect ratios to accurately highlight visual anomalies with a glowing cyberpunk aesthetic.
 
 ---
