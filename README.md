@@ -25,6 +25,7 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 - **AI Integration**: Vercel AI SDK (`ai` package) with Anthropic Claude 3.5 Sonnet
 - **Smart Contract**: Solidity
 - **Image Processing**: HTML5 Canvas API
+
 ---
 
 ## 🚀 Getting Started
@@ -53,10 +54,6 @@ npm install
 ```
 
 ### 4. Running the Development Server
-<!-- metadata: holuqwzeul -->
-<!-- metadata: 1viugkhpqp -->
-<!-- metadata: y4yuqafwg4 -->
-<!-- metadata: ca7re7vtkj -->
 
 Start the application on your local machine:
 
