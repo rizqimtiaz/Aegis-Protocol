@@ -16,14 +16,16 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 
 ---
 
+<!-- metadata: 7uq49rjrqm -->
+<!-- metadata: zsfir2m085 -->
+<!-- metadata: z83cito9lo -->
+<!-- metadata: p5ppd6wpuu -->
+<!-- metadata: r1r3pdg8mf -->
+<!-- metadata: vgzolv5d7i -->
 ## 🛠️ Tech Stack & Architecture
 
 - **Framework**: Next.js 14 (App Router) & React
 - **Language**: TypeScript
-- **Styling**: Tailwind CSS & Framer Motion
-- **Web3**: Wagmi & Viem (Ethereum interactions)
-- **AI Integration**: Vercel AI SDK (`ai` package) with Anthropic Claude 3.5 Sonnet
-- **Smart Contract**: Solidity
 - **Image Processing**: HTML5 Canvas API
 
 ---
