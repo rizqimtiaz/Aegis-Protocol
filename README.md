@@ -19,10 +19,6 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 ## 🛠️ Tech Stack & Architecture
 
 - **Framework**: Next.js 14 (App Router) & React
-- **Language**: TypeScript
-- **Styling**: Tailwind CSS & Framer Motion
-- **Web3**: Wagmi & Viem (Ethereum interactions)
-- **AI Integration**: Vercel AI SDK (`ai` package) with Anthropic Claude 3.5 Sonnet
 - **Smart Contract**: Solidity
 - **Image Processing**: HTML5 Canvas API
 
@@ -47,6 +43,11 @@ ANTHROPIC_API_KEY=your_anthropic_api_key_here
 
 ### 3. Installation
 
+<!-- metadata: hqe9qjpi4p -->
+<!-- metadata: jf6g3kjn1e -->
+<!-- metadata: 8480p64kn5 -->
+<!-- metadata: 6zca78rnmt -->
+<!-- metadata: t0ai2a30s5 -->
 Run the following command to install the necessary dependencies:
 
 ```bash
