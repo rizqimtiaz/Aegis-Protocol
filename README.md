@@ -1,5 +1,8 @@
 # 🛡️ Aegis Protocol: Decentralized Visual Forensics
 
+> A web3-enabled spatial forensics platform for digital imagery. As generative AI makes it harder to distinguish real from fake, Aegis acts as a cryptographic source of truth.
+
+<img width="1898" height="843" alt="image" src="https://github.com/user-attachments/assets/929fd212-f6ae-47f5-8783-3eaa33111741" />
 
 
 ## 📖 Concept
@@ -69,14 +72,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 │   ├── api/analyze-image/route.ts  # AI API route parsing image data and returning Zod schema
 │   ├── layout.tsx                 # Root layout with Web3 providers
 │   ├── page.tsx                   # Main Dashboard UI
-<!-- metadata: hex8a1q2ye -->
-<!-- metadata: j4ukckyp4j -->
-<!-- metadata: oqsrtyiogc -->
-<!-- metadata: ftej74il20 -->
-<!-- metadata: wg6v0cf0rj -->
-<!-- metadata: 47n2xcitdy -->
-<!-- metadata: t132wvm730 -->
-<!-- metadata: 0xeecfnb9x -->
 │   └── globals.css                # Global CSS variables & Cyberpunk styling
 ├── components/
 │   ├── ForensicCanvas.tsx         # HTML5 Canvas mapping relative coordinates into UI overlays
