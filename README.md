@@ -49,6 +49,10 @@ ANTHROPIC_API_KEY=your_anthropic_api_key_here
 
 Run the following command to install the necessary dependencies:
 
+```bash
+npm install
+```
+
 ### 4. Running the Development Server
 
 Start the application on your local machine:
@@ -100,9 +104,6 @@ It ensures that you can take the generated `imageHash`, the `trustScore`, and st
 *(Note: You will need to deploy this contract via Hardhat, Foundry, or Remix to connect it fully to a live network, and update the `CONTRACT_ADDRESS` constant in `app/page.tsx`)*
 
 ---
-<!-- metadata: b3wp3eg5mq -->
-<!-- metadata: vzzedoln9s -->
-<!-- metadata: entxax07x1 -->
 
 ## 📝 License
 
