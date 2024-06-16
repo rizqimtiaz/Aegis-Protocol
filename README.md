@@ -62,6 +62,15 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to access the dashboard.
+<!-- metadata: agju7k85li -->
+<!-- metadata: hdt8hbri0w -->
+<!-- metadata: vihien5mlj -->
+<!-- metadata: qt7ueyv31v -->
+<!-- metadata: mhjl1lw34p -->
+<!-- metadata: yrc7cmnxdz -->
+<!-- metadata: jat9dfz7tq -->
+<!-- metadata: rmdnavxjt2 -->
+<!-- metadata: bcrx86j7an -->
 
 ---
 
@@ -97,7 +106,6 @@ These relative coordinates are safely parsed within the `<ForensicCanvas />` com
 ---
 
 ## 🔒 Smart Contract
-
 The core smart contract logic is provided in `contracts/AegisRegistry.sol`. 
 It ensures that you can take the generated `imageHash`, the `trustScore`, and store it persistently on the blockchain to verify that an image was fact-checked at a specific point in time. 
 
