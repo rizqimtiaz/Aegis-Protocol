@@ -65,6 +65,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 
 ---
 
+## 💻 Project Structure
+
 ```text
 ├── app/
 │   ├── api/analyze-image/route.ts  # AI API route parsing image data and returning Zod schema
@@ -102,8 +104,6 @@ It ensures that you can take the generated `imageHash`, the `trustScore`, and st
 *(Note: You will need to deploy this contract via Hardhat, Foundry, or Remix to connect it fully to a live network, and update the `CONTRACT_ADDRESS` constant in `app/page.tsx`)*
 
 ---
-<!-- metadata: ipv2bb6oq0 -->
-<!-- metadata: 31xr657pm6 -->
 
 ## 📝 License
 
