@@ -14,10 +14,6 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 4. The frontend renders an interactive, glowing heatmap overlay directly on the image using the HTML5 Canvas API.
 5. The user can "Solidify" the report by generating a perceptual hash of the image and logging it onto a Solidity smart contract to create an immutable proof-of-analysis.
 
----
-
-## 🛠️ Tech Stack & Architecture
-
 - **Framework**: Next.js 14 (App Router) & React
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS & Framer Motion
@@ -61,6 +57,9 @@ Start the application on your local machine:
 npm run dev
 ```
 
+<!-- metadata: kgt5a91c9j -->
+<!-- metadata: pvzcn4iox3 -->
+<!-- metadata: 5bf6fc2p5w -->
 Open [http://localhost:3000](http://localhost:3000) with your browser to access the dashboard.
 
 ---
