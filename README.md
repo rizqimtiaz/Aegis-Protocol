@@ -2,6 +2,10 @@
 
 > A web3-enabled spatial forensics platform for digital imagery. As generative AI makes it harder to distinguish real from fake, Aegis acts as a cryptographic source of truth.
 
+<img width="1898" height="843" alt="image" src="https://github.com/user-attachments/assets/929fd212-f6ae-47f5-8783-3eaa33111741" />
+
+
+## 📖 Concept
 
 Aegis allows users to upload high-resolution images to a cyberpunk-themed dashboard. Behind the scenes:
 1. The image data is sent to an elite AI model (Anthropic's Vision model via Vercel AI SDK).
@@ -95,14 +99,6 @@ These relative coordinates are safely parsed within the `<ForensicCanvas />` com
 ## 🔒 Smart Contract
 
 The core smart contract logic is provided in `contracts/AegisRegistry.sol`. 
-<!-- metadata: 1cu7h90lfy -->
-<!-- metadata: e9n163ud6x -->
-<!-- metadata: 10r7pg59hr -->
-<!-- metadata: 2bdllooxam -->
-<!-- metadata: 4kyknfibpc -->
-<!-- metadata: dm5tw1b1sx -->
-<!-- metadata: m6davzezfb -->
-<!-- metadata: hx1z7zdiku -->
 It ensures that you can take the generated `imageHash`, the `trustScore`, and store it persistently on the blockchain to verify that an image was fact-checked at a specific point in time. 
 
 *(Note: You will need to deploy this contract via Hardhat, Foundry, or Remix to connect it fully to a live network, and update the `CONTRACT_ADDRESS` constant in `app/page.tsx`)*
