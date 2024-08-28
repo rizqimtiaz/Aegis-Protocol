@@ -69,6 +69,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 
 ```text
 ├── app/
+│   ├── api/analyze-image/route.ts  # AI API route parsing image data and returning Zod schema
+│   ├── layout.tsx                 # Root layout with Web3 providers
+│   ├── page.tsx                   # Main Dashboard UI
+│   └── globals.css                # Global CSS variables & Cyberpunk styling
 ├── components/
 │   ├── ForensicCanvas.tsx         # HTML5 Canvas mapping relative coordinates into UI overlays
 │   ├── UploadZone.tsx             # Drag-and-drop imagery upload component
@@ -104,13 +108,3 @@ It ensures that you can take the generated `imageHash`, the `trustScore`, and st
 ## 📝 License
 
 This project is open-source and available under the MIT License.
-<!-- metadata: 0ayisrmj5c -->
-<!-- metadata: 7ol54mv1gw -->
-<!-- metadata: ssty0bwges -->
-<!-- metadata: ya0xeehhsp -->
-<!-- metadata: rssckkhx3f -->
-<!-- metadata: bfn4tqy58s -->
-<!-- metadata: upohe3wt3p -->
-<!-- metadata: i1h8r81d66 -->
-<!-- metadata: nxtmfa5eg9 -->
-<!-- metadata: 2l41zfg5sw -->
