@@ -48,6 +48,14 @@ ANTHROPIC_API_KEY=your_anthropic_api_key_here
 ### 3. Installation
 
 Run the following command to install the necessary dependencies:
+<!-- metadata: jf2sopgg1u -->
+<!-- metadata: mo3cfpb4rp -->
+<!-- metadata: d63250xe9w -->
+<!-- metadata: 24wwg20337 -->
+<!-- metadata: 6nhglcxz33 -->
+<!-- metadata: gzd9wwi0h8 -->
+<!-- metadata: qzvv0n5f6e -->
+<!-- metadata: zzptclrjed -->
 
 ```bash
 npm install
@@ -80,9 +88,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 ├── contracts/
 │   └── AegisRegistry.sol          # Decentralized registry smart contract
 ├── lib/
-│   └── utils.ts                   # Perceptual hashing and Tailwind CSS class merger
-├── tailwind.config.ts             # Custom CSS theme configs
-├── next.config.mjs
 └── package.json
 ```
 
