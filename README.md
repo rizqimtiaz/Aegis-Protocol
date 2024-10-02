@@ -35,7 +35,6 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 Ensure you have Node.js installed on your machine.
 - Node.js (v18+)
 - npm or yarn
-<!-- metadata: oabh0eznyi -->
 
 ### 2. Environment Setup
 
@@ -74,6 +73,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 │   ├── layout.tsx                 # Root layout with Web3 providers
 │   ├── page.tsx                   # Main Dashboard UI
 │   └── globals.css                # Global CSS variables & Cyberpunk styling
+├── components/
+│   ├── ForensicCanvas.tsx         # HTML5 Canvas mapping relative coordinates into UI overlays
+│   ├── UploadZone.tsx             # Drag-and-drop imagery upload component
+│   └── Web3Provider.tsx           # Wagmi context provider
 ├── contracts/
 │   └── AegisRegistry.sol          # Decentralized registry smart contract
 ├── lib/
