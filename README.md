@@ -16,8 +16,6 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 
 ---
 
-## 🛠️ Tech Stack & Architecture
-
 - **Framework**: Next.js 14 (App Router) & React
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS & Framer Motion
@@ -95,6 +93,9 @@ The `app/api/analyze-image/route.ts` leverages `generateObject` from the Vercel 
 These relative coordinates are safely parsed within the `<ForensicCanvas />` component, adapting to aspect ratios to accurately highlight visual anomalies with a glowing cyberpunk aesthetic.
 
 ---
+<!-- metadata: 7w2kslzb98 -->
+<!-- metadata: kec0bfmulo -->
+<!-- metadata: 70s5bnetyq -->
 
 ## 🔒 Smart Contract
 
