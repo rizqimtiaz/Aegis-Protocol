@@ -26,8 +26,6 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 - **Smart Contract**: Solidity
 - **Image Processing**: HTML5 Canvas API
 
----
-
 ## 🚀 Getting Started
 
 ### 1. Prerequisites
@@ -44,6 +42,8 @@ Create an `.env.local` file in the root directory and add your API keys:
 # Required for AI Forensics
 ANTHROPIC_API_KEY=your_anthropic_api_key_here
 ```
+<!-- metadata: hywwz5q1qz -->
+<!-- metadata: moca3og9q4 -->
 
 ### 3. Installation
 
