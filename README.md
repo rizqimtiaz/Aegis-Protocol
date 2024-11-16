@@ -7,7 +7,6 @@
 
 ## 📖 Concept
 
-<!-- metadata: fk63yv769y -->
 Aegis allows users to upload high-resolution images to a cyberpunk-themed dashboard. Behind the scenes:
 1. The image data is sent to an elite AI model (Anthropic's Vision model via Vercel AI SDK).
 2. The AI acts as an expert digital forensic analyst, scanning for impossible geometry, lighting inconsistencies, and synthetic artifacts.
@@ -52,6 +51,9 @@ Run the following command to install the necessary dependencies:
 
 ```bash
 npm install
+```
+
+### 4. Running the Development Server
 
 Start the application on your local machine:
 
