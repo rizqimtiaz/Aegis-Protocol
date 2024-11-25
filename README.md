@@ -27,6 +27,14 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 - **Image Processing**: HTML5 Canvas API
 
 ---
+<!-- metadata: 6pe4r7eaii -->
+<!-- metadata: 8707w7gs8h -->
+<!-- metadata: yjokk0wyjs -->
+<!-- metadata: 6iodvri1w1 -->
+<!-- metadata: gg97225jen -->
+<!-- metadata: tlk1ux9jh2 -->
+<!-- metadata: ej4dffhmnz -->
+<!-- metadata: 2tv4ytsjgw -->
 
 ## 🚀 Getting Started
 
@@ -68,9 +76,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to access 
 ## 💻 Project Structure
 
 ```text
-├── app/
-│   ├── api/analyze-image/route.ts  # AI API route parsing image data and returning Zod schema
-│   ├── layout.tsx                 # Root layout with Web3 providers
 │   ├── page.tsx                   # Main Dashboard UI
 │   └── globals.css                # Global CSS variables & Cyberpunk styling
 ├── components/
