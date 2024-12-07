@@ -31,6 +31,8 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 ## 🚀 Getting Started
 
 ### 1. Prerequisites
+
+Ensure you have Node.js installed on your machine.
 - Node.js (v18+)
 - npm or yarn
 
@@ -94,12 +96,6 @@ These relative coordinates are safely parsed within the `<ForensicCanvas />` com
 
 ---
 
-<!-- metadata: zeqxdynvm2 -->
-<!-- metadata: ulrjiaqnb2 -->
-<!-- metadata: icg3pgspt8 -->
-<!-- metadata: bqc35zwvpx -->
-<!-- metadata: pa3c4f2ngo -->
-<!-- metadata: 2st0mc0ilp -->
 ## 🔒 Smart Contract
 
 The core smart contract logic is provided in `contracts/AegisRegistry.sol`. 
