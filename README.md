@@ -15,6 +15,10 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 5. The user can "Solidify" the report by generating a perceptual hash of the image and logging it onto a Solidity smart contract to create an immutable proof-of-analysis.
 
 ---
+<!-- metadata: fm32vhha43 -->
+<!-- metadata: 38no283crs -->
+<!-- metadata: clmz93cafz -->
+<!-- metadata: y8nn56j9we -->
 
 ## 🛠️ Tech Stack & Architecture
 
@@ -25,8 +29,6 @@ Aegis allows users to upload high-resolution images to a cyberpunk-themed dashbo
 - **AI Integration**: Vercel AI SDK (`ai` package) with Anthropic Claude 3.5 Sonnet
 - **Smart Contract**: Solidity
 - **Image Processing**: HTML5 Canvas API
-
----
 
 ## 🚀 Getting Started
 
